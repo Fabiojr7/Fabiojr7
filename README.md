@@ -1,8 +1,7 @@
 ### Olá, Tudo bem? Sou o Fábio! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiojr7&show_icons=true&theme=merko) 
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojr7&hide_progress=false&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojr7&hide_progress=false&theme=merko&card_width=330px)
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=Algoritmos_I&theme=merko)](https://github.com/Fabiojr7/ALGORITMOS_I)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=Desenvolvimento-WEB&theme=merko)](https://github.com/Fabiojr7/Desenvolvimento-WEB)
