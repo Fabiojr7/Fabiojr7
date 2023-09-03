@@ -5,6 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojr7&hide_progress=false&theme=merko)
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=ALGORITMOS_I&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=Desenvolvimento-WEB&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
