@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiojr7&show_icons=true&theme=merko)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=ALGORITMOS_I)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Fabiojr7/Fabiojr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
