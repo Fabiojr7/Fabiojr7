@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiojr7&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiojr7&hide_progress=false&theme=merko)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiojr7&repo=ALGORITMOS_I&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
